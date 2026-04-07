@@ -5,8 +5,8 @@ Express and template engine using ejs and pug
 npm install 
 
 # How to run 
-nodemon app.js // for app.js using express 
+nodemon app.js // for app.js using express (recommended)
 
-nodemon httpserver.js // for vanila http server
+nodemon httpserver.js // for vannila http server
 
-nodemon httpHTMLserver.js // for vanial http sever with html sending 
+nodemon httpHTMLserver.js // for vannila http sever with html sending 
